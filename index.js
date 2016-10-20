@@ -8,6 +8,7 @@ var dart380 = new Dart380({
         require('./lib/features/large-display'),
         require('./lib/features/channel'),
         require('./lib/features/mod'),
-        require('./lib/features/volume')
+        require('./lib/features/volume'),
+        require('./lib/features/communication'),
     ]
 });
