@@ -1,0 +1,17 @@
+{
+  "name": "dart380-arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dart380-js": "adbre/dart380-js",
+    "inherits": "^2.0.3",
+    "lodash": "^4.16.4",
+    "serialport": "^4.0.3"
+  }
+}
