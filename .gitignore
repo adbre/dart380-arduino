@@ -4,3 +4,4 @@
 /.sass-cache/
 /node_modules/
 /deploy_key
+/config.js
